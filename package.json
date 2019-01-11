@@ -64,7 +64,7 @@
     "stream-to-blob": "^2.0.0",
     "stream-to-blob-url": "^3.0.0",
     "stream-with-known-length-to-buffer": "^1.0.0",
-    "torrent-discovery": "^9.1.1",
+    "torrent-discovery": "git+https://git@github.com/tom-james-watson/torrent-discovery.git",
     "torrent-piece": "^2.0.0",
     "uniq": "^1.0.1",
     "unordered-array-remove": "^1.0.2",
