@@ -9,11 +9,7 @@
   },
   "browser": {
     "./lib/server.js": false,
-    "./lib/tcp-pool.js": false,
-    "bittorrent-dht/client": false,
     "fs-chunk-store": "memory-chunk-store",
-    "load-ip-set": false,
-    "net": false,
     "os": false,
     "ut_pex": false
   },
